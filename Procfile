@@ -1,1 +1,1 @@
-bannabutt
+worker: node app.js
