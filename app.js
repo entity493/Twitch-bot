@@ -9,7 +9,7 @@ var options = {
     },
     identity: {
         username: "deathbot9879",
-        password: "oauth:erdww9kv4kse22ql4ah7vighwe4pc7"
+        password: (process.env.token)
     },
     channels: ["#deathman9879"]
 };
